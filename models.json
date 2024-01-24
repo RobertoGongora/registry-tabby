@@ -6,7 +6,7 @@
       "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
       "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
       "urls": [
-        "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b.gguf?download=true"
+        "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b.gguf"
       ],
       "sha256": "629ccbdb952e1e305684504f822d5e70be53cb1225693270678d4698f3fd10a7"
     }
