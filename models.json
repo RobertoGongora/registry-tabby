@@ -1,7 +1,7 @@
 [
     {
       "name": "Stable-Code-3B",
-      "provider_url": "https://huggingface.co/bigcode/starcoderbase-1b",
+      "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
       "license_name": "BigCode-OpenRAIL-M",
       "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
       "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
