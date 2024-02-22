@@ -20,5 +20,16 @@
         "https://huggingface.co/minosu/godot_dodo_4x_60k_starcoder_15b_2ep_ggml_q4_1/resolve/main/godot_dodo_4x_60k_starcoder_15b_2ep_ggml_q4_1.bin"
       ],
       "sha256": "8b2dc22bef13b32581be5ff4c379cf1bed053f81eb67a29fa199d3f42784e8bf"
-    }
+    },
+    {
+      "name": "Gemma-2B",
+      "provider_url": "https://huggingface.co/google/gemma-2b",
+      "license_name": "gemma-terms-of-use",
+      "license_url": "https://ai.google.dev/gemma/terms",
+      "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+      "urls": [
+        "https://huggingface.co/google/gemma-2b/resolve/main/gemma-2b.gguf"
+      ],
+      "sha256": "084eb1abf609fe1735c2631f818bd24e93d29428fd2ba096852012152e37d14b"
+    },
   ]
