@@ -31,5 +31,5 @@
         "https://huggingface.co/google/gemma-2b/resolve/main/gemma-2b.gguf"
       ],
       "sha256": "084eb1abf609fe1735c2631f818bd24e93d29428fd2ba096852012152e37d14b"
-    },
+    }
   ]
